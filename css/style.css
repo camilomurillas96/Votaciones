@@ -1,0 +1,72 @@
+@media (orientation: landscape) {
+    body {
+        background-image: url("../images/fondo-body.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+    }
+    
+    .navbar-brand{
+        width: 60px;
+        height: 80px;
+    }
+    
+    .cards {
+        text-align: -webkit-center;
+    }
+    
+    .d-block {
+        width: 100%;
+        height: 300px;
+    }
+    
+    .bg-dark{
+        transition: all 1s ease;
+    }
+    
+    .slide{
+        margin-top: 95px;
+    }
+    
+    a:link, a:visited, a:active {
+        text-decoration:none;
+    }
+    a .text{
+       color: #ffe247;
+       font-size: xx-large;
+    }
+    
+    .subtitulo{
+        text-align: center;
+        color: gold;
+    }
+    
+    .like{
+        background-color: darkgreen !important;
+        border: none !important;
+    }
+    
+    .dislike{
+        background-color: darkred !important;
+        border: none !important;
+    }
+
+    .card-img-top{
+        width: 100%;
+        height: 200px;
+    }
+
+    .cards{
+        margin-bottom: 10px;
+    }
+
+    .totalVotos{
+        margin-bottom: 10px;
+        text-align: center;
+        color: white;
+    }
+    
+  }
+
+
+

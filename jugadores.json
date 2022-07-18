@@ -1,0 +1,29 @@
+
+{
+    "Jugadores":[
+        {
+            "id": "1",
+            "Equipo": "barcelona",
+            "Pais": "españa",
+            "Nombre": "jordi alba"
+        },
+        {
+            "id": "2",
+            "Equipo": "real madrid",
+            "Pais": "francia",
+            "Nombre": "karim bencema"
+        },
+        {
+            "id": "3",
+            "Equipo": "paris saint-germain",
+            "Pais": "francia",
+            "Nombre": "kylian mbappé"
+        },
+        {
+            "id": "4",
+            "Equipo": "liverpool",
+            "Pais": "colombia",
+            "Nombre": "luis díaz"
+        }
+    ]
+}
